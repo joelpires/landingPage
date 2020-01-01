@@ -1,0 +1,69 @@
+.bg {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body{
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	font-weight: 300;
+	color: #111;
+	margin-top: 10%
+}
+
+.imgcircle{
+	border-radius: 50%;
+}
+
+a{
+	text-decoration: none !important;
+	color: #009bff !important;
+}
+
+a:hover{
+	text-decoration: none !important;
+	color: inherit !important;
+}
+
+a:visited{
+	text-decoration: none !important;
+	color: inherit;
+}
+
+
+.basic img{
+	width:22%;
+	height:22%;
+	margin-right: 4%
+}
+
+.basic h2{
+	font-size: 300%;
+	margin-right: 4%
+}
+
+
+.basic{
+	text-align: center;
+	padding-top: 10%;
+	padding-bottom: 8%;
+}
+
+.info {
+	text-align: center;
+	padding-bottom: 6%;
+	font-size: 110%;
+	  font-weight: bold;
+}
+
+.links {
+	text-align: center;
+}
+
+.links a img{
+	width: 4%;
+	height: 4%;
+	margin-right: 2%
+}
