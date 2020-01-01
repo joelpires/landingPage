@@ -49,13 +49,15 @@ a:visited{
 	text-align: center;
 	padding-top: 10%;
 	padding-bottom: 8%;
+    color: #565656;
 }
 
 .info {
 	text-align: center;
 	padding-bottom: 6%;
 	font-size: 110%;
-	  font-weight: bold;
+	font-weight: bold;
+    color: 	#565656;
 }
 
 .links {
