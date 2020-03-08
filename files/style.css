@@ -2,8 +2,9 @@
   background-image: url("background.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
-  overflow:auto
+  overflow:auto;
+  background-size:cover;
+  background-position:center;
 }
 
 body{
