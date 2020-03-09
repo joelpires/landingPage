@@ -116,7 +116,7 @@ nav{
     flex: 1;
     display: flex;
     justify-content: center;
-    height: 40vh;
+    height: 50vh;
 }
 
 .cover img{
@@ -199,5 +199,8 @@ nav{
     .mid-circle,
     .big-circle{
         opacity: 0.3;
+    }
+    .header{
+        display: none;
     }
 }
